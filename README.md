@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 -->
 
 # YSSkywalker
+## Hi, I'm Anii!
+YSSkywalker is the nickname which I have used on the Internet for a long time.
+### SNS:  
 [WEB page](https://www.ushinohi.com)  
 [Twitter](https://twitter.com/YSSkywalker)  
 [facebook](https://www.facebook.com/yukimurasakiskywalker)  
@@ -33,7 +36,8 @@ Here are some ideas to get you started:
 [LINE](https://lin.ee/1jokpiK)  
 
 # Ushinohi Project
-I'm a member of [Ushinohi Project](https://twitter.com/UshinohiProject) ([丑之日プロジェクト](https://twitter.com/UshinohiProject)), and woring on engineering projects with the team members, such as building 3D printer, quadcopter and so on. You can watch we're working on the projects on YouTube!
+I'm a member of [Ushinohi Project](https://twitter.com/UshinohiProject) ([丑之日プロジェクト](https://twitter.com/UshinohiProject)), and woring on engineering projects with the team members, such as building 3D printer, quadcopter and so on. You can watch we're working on the projects on YouTube!  
+Please click the picture below to watch our videos in YouTube.
 
 [![](https://img.youtube.com/vi/zIvZpHonD8g/0.jpg)](https://www.youtube.com/watch?v=zIvZpHonD8g)
 
