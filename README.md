@@ -31,8 +31,7 @@ YSSkywalker is the nickname which I have used on the Internet for a long time.
 [Twitter](https://twitter.com/YSSkywalker)  
 [facebook](https://www.facebook.com/yukimurasakiskywalker)  
 [Instagram](https://www.instagram.com/ysskywalker/)  
-[YouTube](https://www.youtube.com/channel/UCNIXXbCX91p3pnZ-UsYA2oQ)(YSSkywalker)  
-[YouTube](https://www.youtube.com/channel/UCvTSx-2FzWu-x_wDwKjXN5A)(Ushinohi Project)  
+[YouTube](https://www.youtube.com/channel/UCNIXXbCX91p3pnZ-UsYA2oQ)   
 [LINE](https://lin.ee/1jokpiK)  
 
 # Ushinohi Project
@@ -40,6 +39,14 @@ I'm a member of [Ushinohi Project](https://twitter.com/UshinohiProject) ([丑之
 Please click the picture below to watch our videos in YouTube.
 
 [![](https://img.youtube.com/vi/zIvZpHonD8g/0.jpg)](https://www.youtube.com/watch?v=zIvZpHonD8g)
+
+### SNS:  
+[WEB page](https://www.ushinohi.com)  
+[Twitter](https://twitter.com/UshinohiProject)  
+[facebook](https://www.facebook.com/UshinohiProject)  
+[Instagram](https://www.instagram.com/ushinohiproject/)  
+[YouTube](https://www.youtube.com/channel/UCvTSx-2FzWu-x_wDwKjXN5A)  
+[LINE](https://lin.ee/1jokpiK) 
 
 # Profile
 - 🌱 I’m currently learning Deep Learning on Neural Network  
