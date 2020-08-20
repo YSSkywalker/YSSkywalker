@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 
 # YSSkywalker
 [Twitter](https://twitter.com/YSSkywalker)
+
+# Ushinohi Project
+I'm a member of [Ushinohi Project](https://twitter.com/UshinohiProject) ([丑之日プロジェクト](https://twitter.com/UshinohiProject)), and woring on engineering projects with the team members, such as building 3D printer, quadcopter and so on. You can watch we're working on the projects on YouTube!
+
+[![](https://img.youtube.com/vi/zIvZpHonD8g/0.jpg)](https://www.youtube.com/watch?v=zIvZpHonD8g)
